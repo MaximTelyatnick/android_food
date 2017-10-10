@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "333521413896",
+    "firebase_url": "https://androideat-d5769.firebaseio.com",
+    "project_id": "androideat-d5769",
+    "storage_bucket": "androideat-d5769.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333521413896:android:6e9ce085a7641035",
+        "android_client_info": {
+          "package_name": "com.example.maxim.foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333521413896-h8d9dn134vmp1vn2tg5i6qi0lmbr7mgt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maxim.foodapp",
+            "certificate_hash": "a781a632cee1ed1bcdef76c0c398ad96352f9f64"
+          }
+        },
+        {
+          "client_id": "333521413896-03bfbptg1neul2rh7v9p6steuodvv761.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgChYe2w1TD1XEXP8xD01p_Ny704vFPpo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333521413896-03bfbptg1neul2rh7v9p6steuodvv761.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
